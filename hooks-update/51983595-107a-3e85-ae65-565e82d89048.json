@@ -1,8 +1,13 @@
 {
   "name":  "addone",
-  "entryPoint":  "addone.js",
+  "entryPoint":  "/addone.js",
   "points":  {
-    "labelAttribute":  "name",
-    "noPoints":  true
-  }
+    "query":  {
+      "field":  {
+        "text":  "analog value  simpleserver"
+      }
+    },
+    "groups":  {}
+  },
+  "commandExpiration":  "300s"
 }
