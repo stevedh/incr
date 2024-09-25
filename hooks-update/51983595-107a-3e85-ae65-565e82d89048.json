@@ -1,0 +1,8 @@
+{
+  "name":  "addone",
+  "entryPoint":  "addone.js",
+  "points":  {
+    "labelAttribute":  "name",
+    "noPoints":  true
+  }
+}
